@@ -1,6 +1,6 @@
 {
-  "token": "YOUR TOKEN HERE",
-  "owner": "OWNER ID HERE",
+  "token": "",
+  "owner": "",
   "activity": "with cats",
-  "prefix": "!"
+  "prefix": ""
 }
